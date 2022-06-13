@@ -1,0 +1,20 @@
+body {
+    background-color: #FF5A5A;
+    height: 100%;
+    font-family: 'tradegothiclt-bold', sans-serif;
+  }
+  
+  h1 {
+    font-size: 5em;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  .typewriter-fx {
+    font-size: 5em;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+    margin-top: -50px;
+  }
